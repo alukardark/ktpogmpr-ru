@@ -1,0 +1,7 @@
+<?
+$MESS ['PRODUCTS_SLIDER_TITLE'] = "Рекомендуем";
+$MESS ['SERVICES_SLIDER_SHOW_ALL'] = "Показать все";
+$MESS ['SERVICES_SLIDER_DETAIL_BUTTON'] = "Подробнее";
+$MESS["PRODUCT_BADGE_NEW"] = "New";
+$MESS["PRODUCT_BADGE_BESTSELLER"] = "Хит";
+?>

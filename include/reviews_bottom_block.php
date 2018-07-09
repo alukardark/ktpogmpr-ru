@@ -1,0 +1,1 @@
+<p class="mt-50"><a href="#" data-params='{"subject":"Отзыв"}' data-href="/ajax/feedback.php" data-toggle="modal" data-target="#modal_callback" class="btn btn-dark btn-bold js_ajax_modal">Оставить отзыв</a></p>

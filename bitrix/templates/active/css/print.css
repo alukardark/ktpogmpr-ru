@@ -1,0 +1,25 @@
+.top-mobile-panel,
+.top-panel,
+#header,
+.menubar,
+.slick-arrow,
+#footer,
+.page-footer,
+.sidebar,
+.catalog_toolbar,
+.product-badges,
+#f_up {
+  display: none !important;
+}
+
+.products.grid .item {
+  width: 25% !important;
+}
+
+.main .content {
+  width: 100% !important;
+}
+
+.block-accordion .panel-collapse {
+  display: block !important;
+}
